@@ -1,4 +1,4 @@
-# Three.js Feel The Sphere
+# Three.js - Feel The Sphere
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
