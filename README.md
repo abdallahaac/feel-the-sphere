@@ -1,1 +1,3 @@
-# feel-the-sphere
+# Feel The Sphere
+
+## Setup
